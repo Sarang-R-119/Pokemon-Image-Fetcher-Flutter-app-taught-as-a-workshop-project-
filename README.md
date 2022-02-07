@@ -1,4 +1,7 @@
-# sample_app
+# Pokemon Image Fetcher Workshop
+
+Taught by Nathaniel Chai
+[Workshop Slides](https://docs.google.com/presentation/d/1Jpl4HZ2_CzvER93h8rfIHrIVVc6lH-LATP0wkf9vwbA/edit?usp=sharing)
 
 A new Flutter project.
 
