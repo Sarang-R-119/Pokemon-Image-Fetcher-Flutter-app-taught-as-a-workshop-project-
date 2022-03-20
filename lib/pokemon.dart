@@ -10,4 +10,13 @@ class Pokemon {
         imageUrl: json['sprites']['other']['official-artwork']
             ['front_default']);
   }
+
+  Map<String, dynamic> toJson() {
+    Map<String, dynamic> toReturned = {
+      "name": this.name,
+      "imageUrl": this.imageUrl
+    };
+
+    return toReturned;
+  }
 }
